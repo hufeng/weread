@@ -1,0 +1,14 @@
+{
+  "name": "weread",
+  "version": "1.0.0",
+  "bin": {
+    "weread": "./weread.mjs"
+  },
+  "repository": "git@github.com:hufeng/weread.git",
+  "author": "hufeng <fengmi99@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^16.1.0",
+    "csv-writer": "^1.6.0"
+  }
+}
